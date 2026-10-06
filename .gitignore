@@ -1,0 +1,5 @@
+# Distribution binaries and archives
+*.exe
+*.msi
+*.dmg
+*.zip
