@@ -1,13 +1,13 @@
 {
-  "version": "1.0.49",
-  "notes": "Download the new update below.",
-  "pub_date": "2026-10-09T16:04:57Z",
+  "version": "1.0.50",
+  "notes": "",
+  "pub_date": "2026-10-09T16:41:34Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.0.49/Foreigners_Studio_1.0.49_x64-setup.exe"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.0.50/Foreigners_Studio_1.0.50_x64-setup.exe"
     },
     "darwin-universal": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.0.49/Foreigners_Studio_1.0.49_universal.dmg"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.0.50/Foreigners_Studio_1.0.50_universal.dmg"
     }
   }
 }
