@@ -1,13 +1,13 @@
 {
-  "version": "1.1.1",
-  "notes": "Fixed document and photo preview loading in preview section, enhanced signature cropping with at least 20% natural zoom-out padding, resolved CSP frame-src restrictions, hardened multi-tenant Google isolation, and refined voice agent commands.",
-  "pub_date": "2026-10-16T19:03:57Z",
+  "version": "1.1.2",
+  "notes": "Enterprise AI voice agent instruction reasoning powered directly by Gemini AI with conversational phrase filtering, strictly service-scoped previews without cross-category filter buttons, resilient PDF generation handling file locks, and natural signature margin padding.",
+  "pub_date": "2026-10-16T19:37:15Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.1/Foreigners_Studio_1.1.1_x64-setup.exe"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.2/Foreigners_Studio_1.1.2_x64-setup.exe"
     },
     "darwin-universal": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.1/Foreigners_Studio_1.1.1_universal.dmg"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.2/Foreigners_Studio_1.1.2_universal.dmg"
     }
   }
 }
