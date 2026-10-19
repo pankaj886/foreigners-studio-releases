@@ -1,13 +1,13 @@
 {
-  "version": "1.1.3",
-  "notes": "Fixed preview progress bar vanishing during in-flight passport application processing on main New Application window, ensuring uninterrupted real-time progress through document extraction, portal submission, and preview generation.",
-  "pub_date": "2026-10-17T11:25:20Z",
+  "version": "1.1.4",
+  "notes": "Strict service tracker isolation, anti-collision in-flight tracker defense, definitive ICAO photo validation enforcement, and backend verification auditor.",
+  "pub_date": "2026-10-19T04:39:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.3/Foreigners_Studio_1.1.3_x64-setup.exe"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.4/Foreigners_Studio_1.1.4_x64-setup.exe"
     },
     "darwin-universal": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.3/Foreigners_Studio_1.1.3_universal.dmg"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.4/Foreigners_Studio_1.1.4_universal.dmg"
     }
   }
 }
