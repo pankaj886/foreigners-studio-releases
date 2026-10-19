@@ -1,13 +1,13 @@
 {
-  "version": "1.1.4",
-  "notes": "Strict service tracker isolation, anti-collision in-flight tracker defense, definitive ICAO photo validation enforcement, and backend verification auditor.",
-  "pub_date": "2026-10-19T04:39:00Z",
+  "version": "1.1.5",
+  "notes": "Real progress tracking, mandatory email validation guard, and safe draft dismissal confirmation.",
+  "pub_date": "2026-10-19T11:08:20Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.4/Foreigners_Studio_1.1.4_x64-setup.exe"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.5/Foreigners_Studio_1.1.5_x64-setup.exe"
     },
     "darwin-universal": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.4/Foreigners_Studio_1.1.4_universal.dmg"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.5/Foreigners_Studio_1.1.5_universal.dmg"
     }
   }
 }
