@@ -1,13 +1,13 @@
 {
-  "version": "1.1.6",
-  "notes": "Updated live backend tunnel connection endpoint and operational enhancements.",
-  "pub_date": "2026-10-19T11:59:50Z",
+  "version": "1.1.7",
+  "notes": "Application performance and stability update.",
+  "pub_date": "2026-10-21T13:22:13Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.6/Foreigners_Studio_1.1.6_x64-setup.exe"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.7/Foreigners_Studio_1.1.7_x64-setup.exe"
     },
     "darwin-universal": {
-      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.6/Foreigners_Studio_1.1.6_universal.dmg"
+      "url": "https://github.com/pankaj886/foreigners-studio-releases/releases/download/v1.1.7/Foreigners_Studio_1.1.7_universal.dmg"
     }
   }
 }
